@@ -6,7 +6,7 @@ import winsound
 def reminder(repeat, period):
     '''Reminds you to have a break.
     Arguments:
-        repeat: how many times repeats remind
+        repeat: how many times repeat remind
         period: with which period of time in seconds do remind
     '''
     try:
